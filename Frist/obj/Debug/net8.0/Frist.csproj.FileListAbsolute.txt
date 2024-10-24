@@ -1,0 +1,14 @@
+C:\WORK\depot_CSharp\Frist\bin\Debug\net8.0\Frist.exe
+C:\WORK\depot_CSharp\Frist\bin\Debug\net8.0\Frist.deps.json
+C:\WORK\depot_CSharp\Frist\bin\Debug\net8.0\Frist.runtimeconfig.json
+C:\WORK\depot_CSharp\Frist\bin\Debug\net8.0\Frist.dll
+C:\WORK\depot_CSharp\Frist\bin\Debug\net8.0\Frist.pdb
+C:\WORK\depot_CSharp\Frist\obj\Debug\net8.0\Frist.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\depot_CSharp\Frist\obj\Debug\net8.0\Frist.AssemblyInfoInputs.cache
+C:\WORK\depot_CSharp\Frist\obj\Debug\net8.0\Frist.AssemblyInfo.cs
+C:\WORK\depot_CSharp\Frist\obj\Debug\net8.0\Frist.csproj.CoreCompileInputs.cache
+C:\WORK\depot_CSharp\Frist\obj\Debug\net8.0\Frist.dll
+C:\WORK\depot_CSharp\Frist\obj\Debug\net8.0\refint\Frist.dll
+C:\WORK\depot_CSharp\Frist\obj\Debug\net8.0\Frist.pdb
+C:\WORK\depot_CSharp\Frist\obj\Debug\net8.0\Frist.genruntimeconfig.cache
+C:\WORK\depot_CSharp\Frist\obj\Debug\net8.0\ref\Frist.dll
