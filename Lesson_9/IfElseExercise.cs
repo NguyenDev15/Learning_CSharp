@@ -63,7 +63,7 @@ namespace Lesson_9
             }
 
 
-            // bài tập 05 
+            // bài tập 06 
             // kiểm tra năm nhuận
             Console.Write("Nhập vào năm để kiểm tra: ");
             int year = int.Parse(Console.ReadLine());
@@ -72,6 +72,48 @@ namespace Lesson_9
             }else{
                 Console.WriteLine("Đây là năm không nhuận");
             }
+
+
+            // bài tập 07 
+            // Kiểm tra số ngày trong tháng
+            Console.Write("Mời nhập vào tháng để kiểm tra ngày: ");
+            int month = int.Parse(Console.ReadLine());
+
+            switch (month)
+            {
+                case 1:
+                case 3:
+                case 5:
+                case 7:
+                case 8:
+                case 10:
+                case 12:
+                    Console.WriteLine($"Tháng {month} có 31 ngày!");
+                break;
+
+                case 4:
+                case 6:
+                case 9:
+                case 11:
+                    Console.WriteLine($"Tháng {month} có 30 ngày!");
+                break;
+
+                case 2:
+                    Console.Write("Nhập vào năm để kiểm tra: ");
+                    int yearOfMonth2 = int.Parse(Console.ReadLine());
+                    if(yearOfMonth2 % 4 == 0 && yearOfMonth2 % 100 != 0 || yearOfMonth2 % 400 == 0){
+                        Console.WriteLine($"Năm {yearOfMonth2} - Tháng {month} có 29 ngày!");
+                    }else{
+                        Console.WriteLine($"Năm {yearOfMonth2} - Tháng {month} có 28 ngày!");
+                    }
+                break;
+                default:
+                    Console.WriteLine("Tháng không hợp lệ");
+                break;
+            }
+
+
+
         }
     }
 }
