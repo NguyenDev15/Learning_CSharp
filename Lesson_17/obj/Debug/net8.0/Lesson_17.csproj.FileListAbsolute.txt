@@ -1,0 +1,15 @@
+C:\WORK\depot_CSharp\Lesson_17\bin\Debug\net8.0\Lesson_17.exe
+C:\WORK\depot_CSharp\Lesson_17\bin\Debug\net8.0\Lesson_17.deps.json
+C:\WORK\depot_CSharp\Lesson_17\bin\Debug\net8.0\Lesson_17.runtimeconfig.json
+C:\WORK\depot_CSharp\Lesson_17\bin\Debug\net8.0\Lesson_17.dll
+C:\WORK\depot_CSharp\Lesson_17\bin\Debug\net8.0\Lesson_17.pdb
+C:\WORK\depot_CSharp\Lesson_17\obj\Debug\net8.0\Lesson_17.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\depot_CSharp\Lesson_17\obj\Debug\net8.0\Lesson_17.AssemblyInfoInputs.cache
+C:\WORK\depot_CSharp\Lesson_17\obj\Debug\net8.0\Lesson_17.AssemblyInfo.cs
+C:\WORK\depot_CSharp\Lesson_17\obj\Debug\net8.0\Lesson_17.csproj.CoreCompileInputs.cache
+C:\WORK\depot_CSharp\Lesson_17\obj\Debug\net8.0\Lesson_17.sourcelink.json
+C:\WORK\depot_CSharp\Lesson_17\obj\Debug\net8.0\Lesson_17.dll
+C:\WORK\depot_CSharp\Lesson_17\obj\Debug\net8.0\refint\Lesson_17.dll
+C:\WORK\depot_CSharp\Lesson_17\obj\Debug\net8.0\Lesson_17.pdb
+C:\WORK\depot_CSharp\Lesson_17\obj\Debug\net8.0\Lesson_17.genruntimeconfig.cache
+C:\WORK\depot_CSharp\Lesson_17\obj\Debug\net8.0\ref\Lesson_17.dll
